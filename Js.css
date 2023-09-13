@@ -1,0 +1,45 @@
+body{
+    background-image: url('traine.webp');
+}
+section{
+    background-image: url('train.jpg');
+    text-align: center;
+    height: 47vh;
+    width: 47vh;
+    border-radius: 7px;
+    margin-top: 160px;
+    margin-left: 500px;
+}
+#increment-btn{
+    background-color: brown;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 1em;
+    color: beige;
+}
+#save-btn{
+    background-color: green;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 64px;
+    padding-right: 62px;
+    border-radius: 1em;
+    color: honeydew;
+}
+h1{
+    font-weight: 600;
+    font-size: 40px;
+    padding-top: 30px;
+    color: whitesmoke;
+}
+h2{
+    font-weight: 600;
+    font-size: 40px;
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
